@@ -96,14 +96,14 @@ client.on("message", async(message) => {
     } catch(e) {
         message.channel.send(`${message.author} **|** ocorreu um erro:\`\`\`js\n${e}\`\`\``)
     }
-})
+});
 
 client.on("guildCreate", async(guild) => {
     hook.send(new MessageEmbed()
     .setDescription(`Me convidaram no servidor ${guild.name}[${guild.id}] criado por ${guild.owner.user.tag} com ${guild.members.cache.size - 1} membros`))
-})
+});
 
 client.on("guildDelete", async(guild) => {
     hook.send(new MessageEmbed()
     .setDescription(`Me retiraram do servidor ${guild.name}[${guild.id}] criado por ${guild.owner.user.tag} com ${guild.members.cache.size} membros`))
-})
+});
