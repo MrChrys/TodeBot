@@ -6,7 +6,7 @@ module.exports = {
     tag: "util",
     run: async(client, message, args, lang) => {
         message.channel.send(new MessageEmbed()
-        .setTitle(client.lang.ht)
+        .setTitle(lang.ht)
         .setColor("7289DA")
         .addField(lang.hu, `${client.cmds.filter(a => a.tag === "util").map(a => "`"+a.name+"`").join(", ")}`)
         .addField(lang.hd, `${client.cmds.filter(a => a.tag === "dev").map(a => "`"+a.name+"`").join(", ")}`)
