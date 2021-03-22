@@ -18,7 +18,7 @@ const app = express();
 
 const fs = require("fs");
 
-app.listen(Math.floor(Math.random()));
+app.listen(process.env.PORT);
 app.get('/', function(req, res) {
 	res.send('⁰');
 });
