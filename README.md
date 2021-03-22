@@ -1,4 +1,4 @@
-# :heart: Código aberto do TodeBot :heart:
+# Código aberto do TodeBot
 
 ![](https://cdn.discordapp.com/attachments/803279486736007218/823569416960344076/1616424627836.png)
 
