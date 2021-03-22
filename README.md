@@ -13,7 +13,7 @@ ele é hospedado na repl.it e provavelmente nunca vai morrer :D
 
 ## Estrutura
 
-O Tode foi feito usando a linguagem **JavaScript** e usa a livraria **Discors.js** para se conectar com o discord >:3, o banco de dados eu utilizo o **Quick DB**.
+O Tode foi feito usando a linguagem **JavaScript** e usa a livraria **Discord.js** para se conectar com o discord >:3, o banco de dados eu utilizo o **Quick DB**.
 
 #### **Arquivo** `.env`
 ```
