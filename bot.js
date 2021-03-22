@@ -29,7 +29,7 @@ const bl = new table("bl")
 let { owners } = require("./config.json")
 const p = new table('pf')
 
-const hook = new WebhookClient("822479884902465566", "LkFq1HH3eV0LIOvgGb_06HVfEq7HhxDoWn1c-D5MrMCLwDm7ILEtG1U5b98ZxlZhYGX8")
+const hook = new WebhookClient(process.env.WEBHOOK_ID, process.env.WEBHOOK_TOKEN)
 
 /*
   _   _                       _   _               
