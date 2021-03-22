@@ -35,6 +35,6 @@ WEBHOOK_TOKEN=
 `quick.db@7.1.3`
 
 ## Menções
-| [<img src="https://cdn.discordapp.com/avatars/334740922891894795/98ea08fecf7190de46783f4ba53f618d.webp" width="75"><br><sub>@MrChrys — Fez o código :heart:</sub>](https://github.com/MrChrys) |
+| [<img src="https://cdn.discordapp.com/avatars/334740922891894795/98ea08fecf7190de46783f4ba53f618d.webp" width="75"><br><sub>@MrChrys — Fez o código</sub>](https://github.com/MrChrys) |
 | :---: |
-| [<img style="align: center;" src="https://cdn.discordapp.com/avatars/398220124102066177/57293501700ec791695ddc0c0e96bebd.webp" width="75"><br><sub>@Olivia — Ajudou com a host :heart:</sub>]() |
+| [<img style="align: center;" src="https://cdn.discordapp.com/avatars/398220124102066177/57293501700ec791695ddc0c0e96bebd.webp" width="75"><br><sub>@Olivia — Ajudou com muita coisa :heart:</sub>]() |
